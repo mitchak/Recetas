@@ -1,1 +1,2 @@
 # Recetas
+Esta es la implementacion de los pasos basicos enseñados en el curso de The Odin Proyect mostrando el uso de elementos basicos de HTML con su estructura, manejo de listas y links que incluyen rutas relativas y absolutas
